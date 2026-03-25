@@ -5,7 +5,6 @@ I focus on server infrastructure, virtualization, and exploring the backend of t
 
 - 🏗️ **Currently Working On:** Optimizing Proxmox environments and Open5GS deployments.
 - 🧪 **Research:** Active member of **Network Evolution (NEV)**, focusing on SysAdmin roles in Telco.
-- 🏛️ **Leadership:** Head of Academic & Research Dept. at Hima Teknik Telekomunikasi.
 - 🛠️ **Tech Stack:** Debian, Ubuntu, Arch Linux, Docker, Proxmox, Nginx, & Bash Scripting.
 - 🎯 **Goal:** Mastering Infrastructure as Code (IaC) and building a hobby operating system.
 
